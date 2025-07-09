@@ -18,7 +18,7 @@ $themeconf = array(
   'activable' => 'true',
   'load_parent_local_head' => 'false',
   'load_parent_css' => 'false',
+  );
 load_language('theme.lang', PHPWG_THEMES_PATH.'Sam/');
 $conf['level_separator'] = ' &raquo; ';
-);
 ?>

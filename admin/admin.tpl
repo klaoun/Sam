@@ -1,6 +1,6 @@
 {combine_css path="themes/Sam/admin/admin.css"}
 <div class="titrePage">
-  <h2>Ibufetum</h2>
+  <h2>Sam/h2>
 </div>
 <div id="configContent" style="margin: 0 auto; max-width: 420px">
     <h3>{'Sam'|@translate}</h3>
